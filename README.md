@@ -34,8 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omri93rajuan&show_icons=true&locale=en" alt="omri" /></p>
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omri93rajuan&" alt="omri93" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omri93rajuan&label=Profile%20views&color=0e75b6&style=flat" alt="omri93" /> </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omri93rajuan" alt="GitHub Streak" /></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=omri93rajuan&label=Profile%20views&color=0e75b6&style=flat" alt="omri93" /> </p>
 
 
 Made with ❤️ 
