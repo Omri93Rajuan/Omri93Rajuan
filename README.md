@@ -28,13 +28,15 @@
 <img style="padding:5px;" align="center" alt="next" width="40px" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png"/>
 <img style="padding:5px;" align="center" alt="three" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png"/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=omri93rajuan&card_width=500)](https://git.io/streak-stats)<br />
 
-<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omri93rajuan&show_icons=true&locale=en&layout=compact" alt="omri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omri93rajuan&show_icons=true&locale=en" alt="omri" /></p>
 <br />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omri93rajuan" alt="GitHub Streak" /></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=omri93rajuan&label=Profile%20views&color=0e75b6&style=flat" alt="omri93" /> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omri93rajuan&label=Profile%20views&color=0e75b6&style=flat" alt="omri93" /> </p>
 
 
 Made with ❤️ 
