@@ -20,8 +20,8 @@
 <img style="padding:5px;" align="center" alt="html" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png"/>
 <img style="padding:5px;" align="center" alt="css" width="40px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/>
 <img style="padding:5px;" align="center" alt="js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"/>
+  <img style="padding:5px;" align="center" alt="angular" width="40px" src="https://pbs.twimg.com/profile_images/1721593504118493184/UzPnGWvZ_400x400.jpg"/>
 <img style="padding:5px;" align="center" alt="react" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
-<img style="padding:5px;" align="center" alt="angular" width="40px" src="https://angular.io/assets/images/logos/angular/angular.png"/>
 <img style="padding:5px;" align="center" alt="node" width="40px" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png"/>
 <img style="padding:5px;" align="center" alt="mongo" width="40px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"/>
 <img style="padding:5px;" align="center" alt="firebase" width="40px" src="https://www.gstatic.com/devrel-devsite/prod/v4c72fb03a7a581549fb317877b3b0627265bda97bd9ba2a29365d1ada8a00354/firebase/images/touchicon-180.png"/>
