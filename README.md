@@ -27,6 +27,7 @@
 <img style="padding:5px;" align="center" alt="firebase" width="40px" src="https://www.gstatic.com/devrel-devsite/prod/v4c72fb03a7a581549fb317877b3b0627265bda97bd9ba2a29365d1ada8a00354/firebase/images/touchicon-180.png"/>
 <img style="padding:5px;" align="center" alt="next" width="40px" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png"/>
 <img style="padding:5px;" align="center" alt="three" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png"/>
+<img style="padding:5px;" align="center" alt="three" width="40px" src="https://docs.nestjs.com/assets/logo-small-gradient.svg"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omri93rajuan&card_width=500)](https://git.io/streak-stats)<br />
 
